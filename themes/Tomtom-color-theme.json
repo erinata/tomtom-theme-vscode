@@ -9,8 +9,11 @@
 		
 		"statusBar.background" : "#303030",
         "statusBar.noFolderBackground" : "#222225",
-        "statusBar.debuggingBackground": "#511f1f",
-        "terminal.background" : "#000000"
+		"statusBar.debuggingBackground": "#511f1f",
+		
+		"terminal.background" : "#000000",
+		
+		"editor.lineHighlightBackground" : "#ff0000"
 	},
 	"tokenColors": [
 		{
@@ -27,7 +30,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#555555"
 			}
 		},
 		{
@@ -37,7 +40,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -56,7 +59,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#FF5555"
 			}
 		},
 		{
@@ -67,7 +70,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#D28964"
 			}
 		},
 		{
@@ -87,7 +90,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#D28964"
 			}
 		},
 		{
@@ -98,7 +101,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#FF5555"
 			}
 		},
 		{
@@ -111,7 +114,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -120,7 +123,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -130,7 +133,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#B9F597"
 			}
 		},
 		{
@@ -146,7 +149,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#2276CC"
 			}
 		},
 		{
@@ -162,7 +165,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#C3E88D"
+				"foreground": "#B9F597"
 			}
 		},
 		{
@@ -178,7 +181,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#D28964"
 			}
 		},
 		{
@@ -187,7 +190,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#D28964"
 			}
 		},
 		{
