@@ -1,13 +1,16 @@
 {
-
-
 	"name": "Tomtom",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#1e1e1e",
 		"editor.foreground": "#d4d4d4",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		
+		"statusBar.background" : "#303030",
+        "statusBar.noFolderBackground" : "#222225",
+        "statusBar.debuggingBackground": "#511f1f",
+        "terminal.background" : "#000000"
 	},
 	"tokenColors": [
 		{
