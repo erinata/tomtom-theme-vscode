@@ -369,7 +369,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#BFDFFF"
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#7D9BBC"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#2276CC"
 			}
 		},
 		{
@@ -396,7 +396,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#0054AA"
 			}
 		},
 		{
@@ -405,7 +405,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C17E70"
+				"foreground": "#0054AA"
 			}
 		},
 		{
@@ -414,7 +414,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#0054AA"
 			}
 		},
 		{
@@ -423,7 +423,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#0054AA"
 			}
 		},
 		{
@@ -432,7 +432,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#0054AA"
 			}
 		},
 		{
@@ -441,7 +441,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#0054AA"
 			}
 		},
 		{
