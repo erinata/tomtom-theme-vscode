@@ -2,7 +2,7 @@
     "name": "tomtom-theme-vscode",
     "displayName": "Tomtom Theme",
     "description": "This is the Tomtom theme on SublimeText, Atom, and Notepad++.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "erinata",
     "engines": {
         "vscode": "^1.22.0"
