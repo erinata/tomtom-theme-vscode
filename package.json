@@ -18,5 +18,6 @@
                 "path": "./themes/Tomtom-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": "https://github.com/erinata/tomtom-theme-vscode"
 }
