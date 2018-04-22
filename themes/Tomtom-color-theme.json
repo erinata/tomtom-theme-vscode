@@ -13,7 +13,7 @@
 		
 		"terminal.background" : "#000000",
 		
-		"editor.lineHighlightBackground" : "#ff0000"
+		"editor.lineHighlightBackground" : "#330000"
 	},
 	"tokenColors": [
 		{
