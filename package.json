@@ -1,0 +1,23 @@
+{
+  "name": "tomtom-theme-vscode",
+  "displayName": "Tomtom",
+  "description": "This is an incomplete theme.",
+  "version": "0.2.0",
+  "publisher": "erinata",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tomtom Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tomtom Theme-color-theme.json"
+      }
+    ]
+  },
+  "repository": "https://github.com/erinata/tomtom-theme-vscode"
+}
