@@ -16,12 +16,12 @@
 		"editorLineNumber.activeForeground": "#ffd93d", // bright yellow
 		
 		
-		"editor.lineHighlightBorder": "#660000",	// red
+		"editor.lineHighlightBorder": "#500f15",	// red
 		"editor.lineHighlightBackground": "#331010", // dim red
 		
-		"editor.selectionBackground": "#660000", 	// red
-		"editor.inactiveSelectionBackground": "#660000", // red
-
+		"editor.selectionBackground": "#500f15", 	// red
+		"editor.inactiveSelectionBackground": "#500f15", // red
+		
 		"editor.selectionHighlightBorder": "#ffd93d", // bright yellow
 		"editor.selectionHighlightBackground": "#331010", // dim red
 		
@@ -34,7 +34,7 @@
 		"editorGroup.border": "#2f2f33", 	// dim grey
 		"editorGroup.dropBackground": "#2f2f33", 	// dim grey
 		"editorGroup.emptyBackground": "#000000", 	// black
-		
+
 
 		"editorIndentGuide.activeBackground": "#ffd93d", // bright yellow
 		"editorIndentGuide.background": "#5e5e66", // grey
@@ -51,37 +51,32 @@
 		"editorHoverWidget.border": "#ffffff", // bright white
 		"editorHoverWidget.foreground": "#ebebff", // white
 
-		"tab.activeBackground": "#332b0c", // dim yellow
+		"tab.activeBackground": "#000000",
 		"tab.activeBorder": "#ffd93d", // bright yellow
 		"tab.activeForeground": "#ffffff", // bright white
-		"tab.border": "#2f2f33", // dim grey
-
-		"tab.inactiveBackground": "#ff0000", // black
-		"tab.inactiveForeground": "#8d8d99", // bright grey
-
-		"tab.unfocusedActiveForeground": "#ffffff", // bright white
-		"tab.unfocusedInactiveForeground": "#8d8d99", // bright grey
-		"tab.unfocusedActiveBackground": "#000000", // black
-
-		"tab.hoverBackground": "#2f2f33", //	dim grey
-		"tab.hoverForeground": "#ebebff", // white
-
-		"tab.unfocusedHoverBackground": "#2f2f33", //	dim grey
-		"tab.unfocusedHoverForeground": "#ebebff", // white
-
+		"tab.border": "#5e5e66", // grey
 		"tab.activeModifiedBorder": "#cc0000", // bright red
-		"tab.inactiveModifiedBorder": "#cc0000", // bright red
-		"tab.unfocusedActiveModifiedBorder": "#cc0000", // bright red
-		"tab.unfocusedInactiveModifiedBorder": "#cc0000", 		// bright red
+	
+		"tab.inactiveBackground": "#2f2f33", // dim grey
+		// "tab.inactiveForeground": "#8d8d99", // bright grey
+		// "tab.unfocusedActiveForeground": "#ffffff", // bright white
+		// "tab.unfocusedInactiveForeground": "#8d8d99", // bright grey
+		// "tab.unfocusedActiveBackground": "#000000", // black
 
+		// "tab.hoverBackground": "#2f2f33", //	dim grey
+		// "tab.hoverForeground": "#ebebff", // white
+		// "tab.unfocusedHoverBackground": "#2f2f33", //	dim grey
+		// "tab.unfocusedHoverForeground": "#ebebff", // white
+   
+	
+		
 		"scrollbar.shadow": "#2f2f33", // dim grey
 		"scrollbarSlider.background": "#2f2f33", // dim grey
 		"scrollbarSlider.hoverBackground": "#5e5e66", // grey
 		"scrollbarSlider.activeBackground": "#8d8d99", // bright grey
 
-
 		"titleBar.activeBackground": "#2f2f33", // dim grey
-		"titleBar.border": "#2f2f33", // dim grey
+		"titleBar.border": "#000000", // black
 
 		"sideBar.background": "#000000", // black
 		"sideBarSectionHeader.background": "#2f2f33",	 // dim grey
@@ -111,22 +106,22 @@
 		"activityBarBadge.foreground": "#ebebff",  // white
 		"badge.background": "#2f2f33", // dim grey
 		"badge.foreground": "#ebebff", // white
+		"statusBar.background": "#2f2f33", // dim grey
+		"statusBar.debuggingBackground": "#2f2f33", // dim grey
+		"statusBar.noFolderBackground": "#2f2f33", // dim grey
+		"statusBar.foreground": "#ebebff", // white
 		
 	
 		"progressBar.background": "#ebebff", // white
 		"inputOption.activeBackground": "#2f2f33", // dim grey
 
-		"statusBar.background": "#2f2f33", // dim grey
-		"statusBar.debuggingBackground": "#2f2f33", // dim grey
-		"statusBar.foreground": "#ebebff", // white
-		"statusBar.noFolderBackground": "#2f2f33", // dim grey
-
 		"gitDecoration.ignoredResourceForeground": "#5e5e66", // grey
-		"gitDecoration.modifiedResourceForeground": "#ccae31", // yellow
+		"gitDecoration.modifiedResourceForeground": "#ffd93d", // bright yellow
 		"gitDecoration.deletedResourceForeground": "#cc0000", 		// bright red
 		"gitDecoration.untrackedResourceForeground": "#cc0000",  // bright red
 		"gitDecoration.conflictingResourceForeground": "#cc0000",  // bright red
-		
+		"gitDecoration.renamedResourceForeground": "#cc0000", // bright red
+
 		"panelTitle.activeBorder": "#ffd93d", // bright yellow
 		"panelTitle.activeForeground": "#ebebff", // white
 
@@ -207,7 +202,7 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#9474cc"  		// orange
+				"foreground": "#9474cc"  		// purple
 			}
 		},
 		{
@@ -226,7 +221,6 @@
 		},
 
 
-		
 		// Function and Methods
 		{
 			"name": "Function",
@@ -435,7 +429,7 @@
 		},
 		{
 			"name": "Javascript Function Keyword",
-			"scope": "storage.type.function.js",
+			"scope": ["storage.type.js", "storage.type.function.js", "keyword.operator.new.js"],
 			"settings": {
 				"foreground": "#cc6645" // orange
 			}
