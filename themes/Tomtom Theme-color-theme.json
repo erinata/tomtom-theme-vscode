@@ -135,15 +135,15 @@
 		"pickerGroup.border": "#ffea4e", // bright yellow
 		// "pickerGroup.foreground": "#ffea4e", // bright yellow
 
-		"list.activeSelectionBackground": "#000000", // black
-		"list.activeSelectionForeground": "#ffea4e", // bright yellow
-		"list.activeSelectionIconForeground": "#ffea4e", 		// bright yellow
-		"list.hoverBackground": "#000000", // black
-		"list.hoverForeground": "#ffffff", // bright white
-		"list.inactiveSelectionBackground": "#24242b", // dim grey
-		"list.inactiveSelectionForeground": "#ffffff", // bright white
-		"list.errorForeground": "#cc0000", // bright red
-		"list.warningForeground": "#cc0000", // bright red
+		// "list.activeSelectionBackground": "#000000", // black
+		// "list.activeSelectionForeground": "#ffea4e", // bright yellow
+		// "list.activeSelectionIconForeground": "#ffea4e", 		// bright yellow
+		// "list.hoverBackground": "#000000", // black
+		// "list.hoverForeground": "#ffffff", // bright white
+		// "list.inactiveSelectionBackground": "#24242b", // dim grey
+		// "list.inactiveSelectionForeground": "#ffffff", // bright white
+		// "list.errorForeground": "#cc0000", // bright red
+		// "list.warningForeground": "#cc0000", // bright red
 
 
 

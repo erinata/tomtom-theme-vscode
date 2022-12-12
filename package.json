@@ -2,7 +2,7 @@
   "name": "tomtom-theme-vscode",
   "displayName": "Tomtom",
   "description": "This is an incomplete theme.",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "publisher": "erinata",
   "engines": {
     "vscode": "^1.73.0"
