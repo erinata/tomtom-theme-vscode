@@ -5,15 +5,15 @@
 		"editor.background": "#000000", // black
 		"editor.foreground": "#ebebff", // white
 		"foreground": "#ebebff", // white
-		"focusBorder": "#ffd93d",	// bright yellow
+		"focusBorder": "#ffea4e",	// bright yellow
 
-		"editorGutter.background": "#2f2f33", // dim grey
-		"editorRuler.foreground": "#2f2f33", // dim grey
+		"editorGutter.background": "#24242b", // dim grey
+		"editorRuler.foreground": "#24242b", // dim grey
 		"editorCursor.foreground": "#ebebff",	// white
 		"editorWhitespace.foreground": "#5e5e66",	// grey
 		
 		"editorLineNumber.foreground": "#8d8d99", 	// bright grey
-		"editorLineNumber.activeForeground": "#ffd93d", // bright yellow
+		"editorLineNumber.activeForeground": "#ffea4e", // bright yellow
 		
 		
 		"editor.lineHighlightBorder": "#500f15",	// red
@@ -22,131 +22,136 @@
 		"editor.selectionBackground": "#500f15", 	// red
 		"editor.inactiveSelectionBackground": "#500f15", // red
 		
-		"editor.selectionHighlightBorder": "#ffd93d", // bright yellow
+		"editor.selectionHighlightBorder": "#ffea4e", // bright yellow
 		"editor.selectionHighlightBackground": "#331010", // dim red
+
+		"editor.findMatchBackground": "#500f15", // red
+		"editor.findMatchBorder": "#ffea4e",	// bright yellow
+		"editor.findMatchHighlightBackground": "#00000000", 
+		"editor.findMatchHighlightBorder": "#ddbf42",	// yellow
+	
+		"editor.wordHighlightBackground": "#00000000",
+		"editor.wordHighlightBorder": "#00000000",	
+
+		"editorBracketMatch.background": "#00000000",
+		"editorBracketMatch.border": "#ffea4e",	// bright yellow
+
 		
 
 				
 		"editorGroupHeader.tabsBackground": "#000000", 	// black
-		"editorGroupHeader.tabsBorder": "#2f2f33", 	// dim grey
-		"editorGroupHeader.border": "#2f2f33", 	// dim grey
+		"editorGroupHeader.tabsBorder": "#24242b", 	// dim grey
+		"editorGroupHeader.border": "#24242b", 	// dim grey
 		"editorGroupHeader.noTabsBackground": "#000000", 	// black
-		"editorGroup.border": "#2f2f33", 	// dim grey
-		"editorGroup.dropBackground": "#2f2f33", 	// dim grey
+		"editorGroup.border": "#24242b", 	// dim grey
+		"editorGroup.dropBackground": "#24242b", 	// dim grey
 		"editorGroup.emptyBackground": "#000000", 	// black
 
 
-		"editorIndentGuide.activeBackground": "#ffd93d", // bright yellow
+		"editorIndentGuide.activeBackground": "#ffea4e", // bright yellow
 		"editorIndentGuide.background": "#5e5e66", // grey
 		
-		"editorWidget.background": "#2f2f33", 		// dim grey
+		"editorWidget.background": "#24242b", 		// dim grey
 		"editorWidget.border": "#ffffff", 		// bright white
 		"editorWidget.foreground": "#ebebff", 		// white
 
-		"editorSuggestWidget.background": "#2f2f33", // dim grey
+		"editorSuggestWidget.background": "#24242b", // dim grey
 		"editorSuggestWidget.border": "#ffffff", // bright white
 		"editorSuggestWidget.foreground": "#ebebff", // white
 
-		"editorHoverWidget.background": "#2f2f33", // dim grey
+		"editorHoverWidget.background": "#24242b", // dim grey
 		"editorHoverWidget.border": "#ffffff", // bright white
 		"editorHoverWidget.foreground": "#ebebff", // white
 
 		"tab.activeBackground": "#000000",
-		"tab.activeBorder": "#ffd93d", // bright yellow
+		"tab.activeBorder": "#ffea4e", // bright yellow
 		"tab.activeForeground": "#ffffff", // bright white
 		"tab.border": "#5e5e66", // grey
 		"tab.activeModifiedBorder": "#cc0000", // bright red
 	
-		"tab.inactiveBackground": "#2f2f33", // dim grey
-		// "tab.inactiveForeground": "#8d8d99", // bright grey
-		// "tab.unfocusedActiveForeground": "#ffffff", // bright white
-		// "tab.unfocusedInactiveForeground": "#8d8d99", // bright grey
-		// "tab.unfocusedActiveBackground": "#000000", // black
-
-		// "tab.hoverBackground": "#2f2f33", //	dim grey
-		// "tab.hoverForeground": "#ebebff", // white
-		// "tab.unfocusedHoverBackground": "#2f2f33", //	dim grey
-		// "tab.unfocusedHoverForeground": "#ebebff", // white
+		"tab.inactiveBackground": "#24242b", // dim grey
+		"tab.hoverForeground": "#ebebff", // white
+		"tab.unfocusedHoverForeground": "#ebebff", // white
    
 	
-		
-		"scrollbar.shadow": "#2f2f33", // dim grey
-		"scrollbarSlider.background": "#2f2f33", // dim grey
+		"scrollbar.shadow": "#24242b", // dim grey
+		"scrollbarSlider.background": "#24242b", // dim grey
 		"scrollbarSlider.hoverBackground": "#5e5e66", // grey
 		"scrollbarSlider.activeBackground": "#8d8d99", // bright grey
 
-		"titleBar.activeBackground": "#2f2f33", // dim grey
+		"titleBar.activeBackground": "#24242b", // dim grey
 		"titleBar.border": "#000000", // black
 
 		"sideBar.background": "#000000", // black
-		"sideBarSectionHeader.background": "#2f2f33",	 // dim grey
+		"sideBarSectionHeader.background": "#24242b",	 // dim grey
 		"sideBar.foreground": "#ebebff", // white
 		"sideBar.border": "#000000", // black
 		"sideBarSectionHeader.foreground": "#ebebff",	 // white
 		"sideBarSectionHeader.border": "#000000", // black
 		"sideBarTitle.foreground": "#ebebff", // white
 
-		"button.border": "#158299", // blue
-		"button.background": "#0e5766", // dim blue
+		"button.border": "#1978a7", // blue
+		"button.background": "#0b5261", // dim blue
 		"button.foreground": "#ebebff", // white
-		"button.hoverBackground": "#158299", // blue
-		"textLink.activeForeground": "#1db0cc", // bright blue
-		"textLink.foreground": "#158299", // blue
+		"button.hoverBackground": "#1978a7", // blue
+		"textLink.activeForeground": "#29b3e7", // bright blue
+		"textLink.foreground": "#1978a7", // blue
 
-		"debugIcon.breakpointForeground": "#db9d9d", // pink
+		"debugIcon.breakpointForeground": "#fdbfbf", // pink
 		"debugIcon.breakpointDisabledForeground": "#ebebff", // white
 
 		"input.background": "#000000", // black
 		"input.foreground": "#ebebff", // white
 		"input.border": "#ebebff", // white
 
-		"activityBar.background": "#2f2f33",	// dim grey
+		"activityBar.background": "#24242b",	// dim grey
 		"activityBar.foreground": "#ebebff", // white
-		"activityBarBadge.background": "#2f2f33", 		// dim grey
+		"activityBarBadge.background": "#24242b", 		// dim grey
 		"activityBarBadge.foreground": "#ebebff",  // white
-		"badge.background": "#2f2f33", // dim grey
+		"badge.background": "#24242b", // dim grey
 		"badge.foreground": "#ebebff", // white
-		"statusBar.background": "#2f2f33", // dim grey
-		"statusBar.debuggingBackground": "#2f2f33", // dim grey
-		"statusBar.noFolderBackground": "#2f2f33", // dim grey
+		"statusBar.background": "#24242b", // dim grey
+		"statusBar.debuggingBackground": "#24242b", // dim grey
+		"statusBar.noFolderBackground": "#24242b", // dim grey
 		"statusBar.foreground": "#ebebff", // white
 		
+		"keybindingLabel.background": "#24242b", // dim grey
+		"keybindingLabel.foreground": "#ebebff", // white
+		"keybindingLabel.border": "#5e5e66", // grey
 	
 		"progressBar.background": "#ebebff", // white
-		"inputOption.activeBackground": "#2f2f33", // dim grey
+		"inputOption.activeBackground": "#24242b", // dim grey
 
 		"gitDecoration.ignoredResourceForeground": "#5e5e66", // grey
-		"gitDecoration.modifiedResourceForeground": "#ffd93d", // bright yellow
+		"gitDecoration.modifiedResourceForeground": "#ffea4e", // bright yellow
 		"gitDecoration.deletedResourceForeground": "#cc0000", 		// bright red
 		"gitDecoration.untrackedResourceForeground": "#cc0000",  // bright red
 		"gitDecoration.conflictingResourceForeground": "#cc0000",  // bright red
 		"gitDecoration.renamedResourceForeground": "#cc0000", // bright red
 
-		"panelTitle.activeBorder": "#ffd93d", // bright yellow
-		"panelTitle.activeForeground": "#ebebff", // white
+		"panelTitle.activeBorder": "#ffea4e", // bright yellow
+		// "panelTitle.activeForeground": "#ebebff", // white
 
-		"pickerGroup.border": "#ffd93d", // bright yellow
-		"pickerGroup.foreground": "#ffd93d", // bright yellow
+		"pickerGroup.border": "#ffea4e", // bright yellow
+		// "pickerGroup.foreground": "#ffea4e", // bright yellow
 
 		"list.activeSelectionBackground": "#000000", // black
-		"list.activeSelectionForeground": "#ffd93d", // bright yellow
-		"list.activeSelectionIconForeground": "#ffd93d", 		// bright yellow
+		"list.activeSelectionForeground": "#ffea4e", // bright yellow
+		"list.activeSelectionIconForeground": "#ffea4e", 		// bright yellow
 		"list.hoverBackground": "#000000", // black
 		"list.hoverForeground": "#ffffff", // bright white
-		"list.inactiveSelectionBackground": "#2f2f33", // dim grey
+		"list.inactiveSelectionBackground": "#24242b", // dim grey
 		"list.inactiveSelectionForeground": "#ffffff", // bright white
 		"list.errorForeground": "#cc0000", // bright red
 		"list.warningForeground": "#cc0000", // bright red
 
-		"keybindingLabel.background": "#2f2f33", // dim grey
-		"keybindingLabel.foreground": "#ebebff", // white
-		"keybindingLabel.border": "#5e5e66", // grey
 
-		"editorBracketHighlight.foreground1": "#ffd93d", // bright yellow
+
+		"editorBracketHighlight.foreground1": "#ffea4e", // bright yellow
 		"editorBracketHighlight.foreground2": "#aa8c18", // dim yellow
-		"editorBracketHighlight.foreground3": "#ffd93d",	// bright yellow
+		"editorBracketHighlight.foreground3": "#ffea4e",	// bright yellow
 		"editorBracketHighlight.foreground4": "#aa8c18",	// dim yellow
-		"editorBracketHighlight.foreground5": "#ffd93d", // bright yellow
+		"editorBracketHighlight.foreground5": "#ffea4e", // bright yellow
 		"editorBracketHighlight.foreground6": "#aa8c18",	// dim yellow
 		"editorBracketHighlight.unexpectedBracket.foreground": "#cc0000", // bright red
 		
@@ -174,14 +179,14 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#ccae31"  // yellow
+				"foreground": "#ddbf42"  // yellow
 			}
 		},
 		{
 			"name" : "Constant",
 			"scope" : "constant",
 			"settings": {
-				"foreground": "#1db0cc"   // bright blue
+				"foreground": "#29b3e7"   // bright blue
 			}
 		},
 		{
@@ -202,7 +207,7 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#9474cc"  		// purple
+				"foreground": "#a787d8"  		// purple
 			}
 		},
 		{
@@ -216,7 +221,7 @@
 			"name": "Entity",
 			"scope": "entity",
 			"settings": {
-				"foreground": "#9474cc", // purple
+				"foreground": "#a787d8", // purple
 			}
 		},
 
@@ -226,7 +231,7 @@
 			"name": "Function",
 			"scope": ["entity.name.function", "meta.function.method entity.name.function", "meta.function.definition entity.name.function", "meta.method.identifier entity.name.function"],
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 		{
@@ -249,7 +254,7 @@
 			"name": "Class",
 			"scope": ["meta.class entity.name.function", "meta.class.body entity.name.function", "support.class", "entity.name.class"],
 			"settings": {
-				"foreground": "#9474cc", // purple
+				"foreground": "#a787d8", // purple
 			}
 		},
 		
@@ -258,7 +263,7 @@
 			"name": "Hashkey",
 			"scope": ["constant.language.symbol.hashkey", "meta.hashkey", "entity.other.attribute-name", "support.type.property-name"],
 			"settings": {
-				"foreground": "#db9d9d" // pink
+				"foreground": "#fdbfbf" // pink
 			}
 		},
 
@@ -289,6 +294,24 @@
 			}
 		},
 
+		// Special Character in String and Regex
+		{
+			"name": "String escape character",
+			"scope": "constant.character.escape",
+			"settings": {
+				"foreground": "#ddbf42" //  yellow
+			}
+		},
+		
+		{
+			"name": "Regexp Numbers",
+			"scope": "string.regexp.arbitrary-repetition.ruby",
+			"settings": {
+				"foreground": "#29b3e7" // bright blue
+			}
+		},
+
+		
 		
 		// 
 		
@@ -303,7 +326,7 @@
 		},
 		{
 			"name": "Regexp Punctuation",
-			"scope": "punctuation.section.regexp",
+			"scope": ["punctuation.section.regexp", "punctuation.definition.character-class"],
 			"settings": {
 				"foreground": "#d6ff8e" // bright green
 			}
@@ -312,21 +335,14 @@
 			"name": "Regexp Repetition Punctuation",
 			"scope": "punctuation.definition.arbitrary-repetition",
 			"settings": {
-				"foreground": "#d6ff8e" //  bright green
-			}
-		},
-		{
-			"name": "Regexp Character Class Punctuation",
-			"scope": "punctuation.definition.character-class",
-			"settings": {
-				"foreground": "#d6ff8e" //  bright green
+				"foreground": "#ddbf42" //  yellow
 			}
 		},
 		{
 			"name": "Regexp Group Punctuation",
 			"scope": "string.regexp.group punctuation.definition.group",
 			"settings": {
-				"foreground": "#d6ff8e" //  bright green
+				"foreground": "#cc6645" //  orange
 			}
 		},
 		
@@ -342,28 +358,28 @@
 			"name": "Constant Punctuation",
 			"scope": "punctuation.definition.constant",
 			"settings": {
-				"foreground": "#1db0cc" // bright blue
+				"foreground": "#29b3e7" // bright blue
 			}
 		},
 		{
 			"name": "Array Punctuation",
 			"scope": "punctuation.section.array",
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 		{
 			"name": "Keyword Operator",
 			"scope":"keyword.operator",
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 		{
 			"name": "Entity Operator",
 			"scope":"entity.name.function.operator",
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 		{
@@ -385,7 +401,7 @@
 			"name": "Hashkey Punctuation",
 			"scope":["punctuation.definition.constant.hashkey", "punctuation.support.type.property-name", "punctuation.separator.dictionary.key-value"],
 			"settings": {
-				"foreground": "#db9d9d" //  pink
+				"foreground": "#fdbfbf" //  pink
 			}
 		},
 		{
@@ -400,14 +416,23 @@
 
 
 
-		// Ruby
-		{
-			"name": "String Embedded Ruby Punctuation",
-			"scope": "string.quoted.double.interpolated.ruby meta.embedded.line.ruby punctuation.section.embedded",
-			"settings": {
-				"foreground": "#ccae31" // yellow
-			}
-		},
+		// // Ruby
+		// {
+		// 	"name": "String Embedded Ruby Punctuation",
+		// 	"scope": ["string.quoted.double.interpolated.ruby meta.embedded.line.ruby punctuation.section.embedded", "constant.character.escape.ruby", "punctuation.definition.arbitrary-repetition.ruby"],
+		// 	"settings": {
+		// 		"foreground": "#ddbf42" // yellow
+		// 	}
+		// },
+		// {
+		// 	"name": "Regexp Numbers",
+		// 	"scope": "string.regexp.arbitrary-repetition.ruby",
+		// 	"settings": {
+		// 		"foreground": "#29b3e7" // bright blue
+		// 	}
+		// },
+		
+		
 
 		// Go
 		{
@@ -450,7 +475,7 @@
 			"name": "Stata Numbers",
 			"scope": "constant.numeric.stata",
 			"settings": {
-				"foreground": "#1db0cc"   // bright blue
+				"foreground": "#29b3e7"   // bright blue
 			}
 		},
 
@@ -462,7 +487,7 @@
 			"name": "Java Storage Modifier",
 			"scope": "meta.class.identifier.java storage.modifier.java",
 			"settings": {
-				"foreground": "#9474cc" // purple
+				"foreground": "#a787d8" // purple
 			}
 		},
 
@@ -490,7 +515,7 @@
 			"name": "Python Format",
 			"scope": ["constant.character.format.placeholder.other.python", "storage.type.format.python"],
 			"settings": {
-				"foreground": "#db9d9d" // 		pink
+				"foreground": "#fdbfbf" // 		pink
 			}
 		},
 
@@ -498,7 +523,7 @@
 			"name": "Python Casting",
 			"scope": "support.type.python",
 			"settings": {
-				"foreground": "#9474cc" // 		purple
+				"foreground": "#a787d8" // 		purple
 			}
 		},
 		
@@ -508,7 +533,7 @@
 			"name": "Cpp Storage Punctuation",
 			"scope": "punctuation.section.angle-brackets",
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 
@@ -560,25 +585,33 @@
 			"name": "CSS Pseudo Class",
 			"scope": "entity.other.attribute-name.pseudo-class.css",
 			"settings": {
-				"foreground": "#ccae31" //  yellow
+				"foreground": "#ddbf42" //  yellow
 			}
 		},
 		{
 			"name": "CSS Key Punctuation",
 			"scope": "punctuation.separator.key-value.css",
 			"settings": {
-				"foreground": "#db9d9d" // pink
+				"foreground": "#fdbfbf" // pink
 			}
 		},
 		{
 			"name": "Units",
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 
 		
+		// R
+		{
+			"name": "Colon in R",
+			"scope": "keyword.other.r",
+			"settings": {
+				"foreground": "#ddbf42" // yellow
+			}
+		},
 		
 		
 		// Markdown
@@ -628,7 +661,7 @@
 			"name": "Markdown List Punctuation",
 			"scope": "punctuation.definition.list.begin.markdown",
 			"settings": {
-				"foreground": "#ccae31", //  yellow
+				"foreground": "#ddbf42", //  yellow
 				"fontStyle": "bold"
 			}
 		},
@@ -637,14 +670,14 @@
 			"name": "Markdown Raw",
 			"scope": ["punctuation.definition.raw.markdown", "markup.inline.raw.string.markdown", "markup.raw.block.markdown"],
 			"settings": {
-				"foreground": "#158299" //  blue
+				"foreground": "#1978a7" //  blue
 			}
 		},
 		{
 			"name": "Markdown Code Block",
 			"scope": ["fenced_code.block.language.markdown", "punctuation.definition.markdown"],
 			"settings": {
-				"foreground": "#158299" //  blue
+				"foreground": "#1978a7" //  blue
 			}
 		},
 		{
@@ -678,35 +711,35 @@
 			"name": "Latex Keyword Function",
 			"scope": ["keyword.control.label.latex", "keyword.other.item.latex", "keyword.control.preamble.latex", "keyword.control.ref.latex","keyword.control.cite.latex"],
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 		{
 			"name": "Latex General Function",
 			"scope": ["support.function.general.tex", "support.function.general.latex"],
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 		{
 			"name": "Latex Support Function",
 			"scope": ["constant.other.general.math.tex", "support.function.be.latex","support.function.footnote.latex","support.function.url.latex","support.function.section.latex","support.function.textbf.latex"],
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 		{
 			"name": "Latex Storage Type Function",
 			"scope": "storage.type.function.latex",
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 		{
 			"name": "Latex reference labels",
-			"scope": ["constant.other.reference.label.latex", "variable.parameter.definition.label.latex"],
+			"scope": ["constant.other.reference.label.latex", "variable.parameter.definition.label.latex", "constant.other.reference.citation.latex"],
 			"settings": {
-				"foreground": "#158299" // blue
+				"foreground": "#fdbfbf" // pink
 			}
 		},
 		{
@@ -718,6 +751,13 @@
 		},
 	
 		{
+			"name": "Latex Links",
+			"scope": "markup.underline.link.latex",
+			"settings": {
+				"foreground": "#9bcc7e" // green
+			}
+		},
+		{
 			"name": "Latex Section Name",
 			"scope": "entity.name.section.latex",
 			"settings": {
@@ -725,24 +765,45 @@
 			}
 		},
 		{
-			"name": "Math Content",
-			"scope": ["support.class.math.block.tex", "support.class.math.block.environment.latex",  "punctuation.math.operator.tex"],
+			"name": "Table Content",
+			"scope": ["meta.data.environment.tabular.latex"],
 			"settings": {
-				"foreground": "#1db0cc" // bright blue
+				"foreground": "#29b3e7" // bright blue
+			}
+		},
+		{
+			"name": "Math Content",
+			"scope": ["support.class.math.block.tex", "support.class.math.block.environment.latex"],
+			"settings": {
+				"foreground": "#29b3e7" // bright blue
+			}
+		},
+		{
+			"name": "Math Operator",
+			"scope": ["punctuation.math.operator.tex"],
+			"settings": {
+				"foreground": "#ddbf42" // yellow
+			}
+		},
+		{
+			"name": "Align and Cell",
+			"scope": ["keyword.control.equation.align.latex", "keyword.control.equation.newline.latex", "keyword.control.table.cell.latex", "keyword.control.table.newline.latex"],
+			"settings": {
+				"foreground": "#cc6645" // orange
 			}
 		},
 		{
 			"name": "Math Function",
 			"scope": ["constant.character.math.tex"],
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 		{
 			"name": "Bibtex Entry",
 			"scope": "keyword.other.entry-type.bibtex",
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 
@@ -751,14 +812,14 @@
 			"name": "Bibtex Entry",
 			"scope": "entity.name.type.entry-key.bibtex",
 			"settings": {
-				"foreground": "#1db0cc" // bright blue
+				"foreground": "#fdbfbf" // pink
 			}
 		},
 		{
 			"name": "Bibtex Key",
 			"scope": "support.function.key.bibtex",
 			"settings": {
-				"foreground": "#db9d9d" // pink
+				"foreground": "#fdbfbf" // pink
 			}
 		},
 		{
@@ -772,21 +833,28 @@
 			"name": "Latex Function Punctuation",
 			"scope": ["punctuation.definition.function.latex", "punctuation.definition.function.tex", "punctuation.definition.keyword.latex"],  
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
-					{
+		{
 			"name": "Latex Function Punctuation",
 			"scope": ["punctuation.definition.function.latex", "punctuation.definition.function.tex", "punctuation.definition.keyword.latex", "punctuation.definition.constant.math.tex", "punctuation.definition.string.begin.tex", "punctuation.definition.string.end.tex" ], 
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
+			}
+		},
+		{
+			"name": "Latex table equation Punctuation",
+			"scope": ["meta.function.environment.math.latex keyword.control.equation", "meta.function.environment.general.latex keyword.control" ], 
+			"settings": {
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 		{
 			"name": "Bibtex Entry Punctuation",
-			"scope": "punctuation.definition.keyword.bibtex",
+			"scope": ["punctuation.definition.keyword.bibtex", "punctuation.definition.string.begin.bibtex", "punctuation.definition.string.end.bibtex"],
 			"settings": {
-				"foreground": "#ccae31" // yellow
+				"foreground": "#ddbf42" // yellow
 			}
 		},
 
